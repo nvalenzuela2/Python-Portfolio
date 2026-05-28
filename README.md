@@ -3,14 +3,14 @@ This is a collection of the programs I have created in AP Computer Science Princ
 
 Here are all the projects that I have worked on throughout the year in AP CSP. Hope you all enjoy and have fun!
 
-Hogwarts - Find your hogwarts house based on your name!
+HOGWARTS - Find your hogwarts house based on your name! Just input your name and you will be very surprised!
 
-Mock - Find your ideal dog with your own preferences!
+MOCK - Find your ideal dog with your own preferences! And also get a picture of said dog!
 
-Netflix - Get a movie or TV Show based on your preferences!
+NETFLIX - Get a movie or TV Show based on your preferences!
 
-Pokemon - Play a game of Pokemon!
+POKEMON - Play a game of Pokemon!
 
 RPS - Play a game of Rock Paper Scissors!
 
-Secret - Find all the secret messages!
+SECRET - Find all the secret messages!
